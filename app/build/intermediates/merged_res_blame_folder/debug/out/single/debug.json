@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "code.with.cal.kotlincalculatorapp-merged_res-5:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "code.with.cal.kotlincalculatorapp-main-7:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "code.with.cal.kotlincalculatorapp-merged_res-5:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "code.with.cal.kotlincalculatorapp-main-7:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "code.with.cal.kotlincalculatorapp-merged_res-5:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "code.with.cal.kotlincalculatorapp-main-7:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "code.with.cal.kotlincalculatorapp-merged_res-5:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "code.with.cal.kotlincalculatorapp-main-7:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "code.with.cal.kotlincalculatorapp-merged_res-5:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "code.with.cal.kotlincalculatorapp-main-7:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "code.with.cal.kotlincalculatorapp-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "code.with.cal.kotlincalculatorapp-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "code.with.cal.kotlincalculatorapp-merged_res-5:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "code.with.cal.kotlincalculatorapp-main-7:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "code.with.cal.kotlincalculatorapp-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "code.with.cal.kotlincalculatorapp-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "code.with.cal.kotlincalculatorapp-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "code.with.cal.kotlincalculatorapp-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "code.with.cal.kotlincalculatorapp-merged_res-5:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "code.with.cal.kotlincalculatorapp-main-7:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "code.with.cal.kotlincalculatorapp-merged_res-5:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "code.with.cal.kotlincalculatorapp-main-7:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "code.with.cal.kotlincalculatorapp-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "code.with.cal.kotlincalculatorapp-main-7:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "code.with.cal.kotlincalculatorapp-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "code.with.cal.kotlincalculatorapp-main-7:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "code.with.cal.kotlincalculatorapp-merged_res-5:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "code.with.cal.kotlincalculatorapp-main-7:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "code.with.cal.kotlincalculatorapp-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "code.with.cal.kotlincalculatorapp-main-7:/layout/activity_main.xml"
+    }
+]

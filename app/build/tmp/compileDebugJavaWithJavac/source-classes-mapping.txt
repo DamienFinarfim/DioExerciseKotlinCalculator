@@ -1,0 +1,2 @@
+code/with/cal/kotlincalculatorapp/BuildConfig.java
+ code.with.cal.kotlincalculatorapp.BuildConfig
